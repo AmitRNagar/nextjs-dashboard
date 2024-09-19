@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\app",
+    "\\app\\dashboard",
+    "\\app\\dashboard\\customers",
+    "\\app\\ui\\customers",
+    "\\public"
   ],
-  "SelectedNode": "\\C:\\Projects\\SampleProjects\\nextjs-dashboard",
+  "SelectedNode": "\\app\\dashboard\\customers\\page.tsx",
   "PreviewInSolutionExplorer": false
 }
