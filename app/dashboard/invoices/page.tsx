@@ -1,5 +1,5 @@
 import React from "react";
 
 export default function Page() {
-    return <p>Invoices Page content</p>;
+    return <p>Invoices Page content vr1</p>;
   }
